@@ -1,14 +1,5 @@
 # Project1-CPSC535
 ## Graduation time
-
-Group members:
-
-Aditya Bhavikatti adityabhavikatti@csu.fullerton.edu
-
-Manikanta Reddy Nayini     manikantareddy@csu.fullerton.edu
-
-Shouri Reddy Tumma           @csu.fullerton.edu
-
 ## Psuedocode
 
 ### Topological Sorting
